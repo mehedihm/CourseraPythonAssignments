@@ -1,2 +1,2 @@
 # CourseraPythonAssignments
-Solutions of Coursera Assignments
+Solutions to the assignments of the Python course on Coursera "Python for Everybody".
